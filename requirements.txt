@@ -1,3 +1,4 @@
 knowledge-storm
 Groq
-SerperRM
+browser-use
+playwright
